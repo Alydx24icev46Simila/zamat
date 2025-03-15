@@ -5,3 +5,10 @@ data/audio_transcripts/
 web_app/build/
 web_app/dist/
 models/
+node_modules/
+__pycache__/
+*.env
+data/audio_transcripts/
+web_app/build/
+web_app/dist/
+models/
